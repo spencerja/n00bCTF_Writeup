@@ -1,6 +1,6 @@
 >To get the flag, you must be a member of the secret group! Author: NoobMaster
 >
-[>http://challs.n00bzunit3d.xyz:31401/](http://challs.n00bzunit3d.xyz:31401/)
+>[http://challs.n00bzunit3d.xyz:31401/](http://challs.n00bzunit3d.xyz:31401/)
 ----------------
 Visiting the url, we see the following in plain text:
 ```
